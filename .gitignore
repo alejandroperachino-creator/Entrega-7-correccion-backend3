@@ -50,5 +50,3 @@ uploads/
 # Optional local-only config
 *.local
 
-# Local git automation script (personal use, no entrega)
-push-local.ps1
